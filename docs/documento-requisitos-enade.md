@@ -1,5 +1,3 @@
-﻿**Projeto Integrador IV 
-
 
 **Documento de Requisitos do Sistema ENADE – versão 1.0** 
 
