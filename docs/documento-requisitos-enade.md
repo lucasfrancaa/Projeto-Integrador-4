@@ -1,11 +1,5 @@
-﻿**Projeto Integrador IV ![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.001.png)**
+﻿**Projeto Integrador IV 
 
-**Equipe**         Caio Alves      
-Izabelly Santana 
-Letícia Freitas 
-Lucas França 
-Luiz Gonçalves 
-Mariana Bulhões 
 
 **Documento de Requisitos do Sistema ENADE – versão 1.0** 
 
@@ -57,7 +51,6 @@ O usuário terá acesso para consulta aos dados de forma intuitiva, e de fácil 
 3. **Requisitos funcionais (casos de uso)** 
 1. **Cadastro** 
 
-
 **Descrição do caso de uso:** Este caso de uso permite que o usuário realize seu cadastro a fim de utilizar funcionalidades do mesmo. 
 
 Ator: Usuário 
@@ -68,7 +61,6 @@ Ator: Usuário
 
 **Saídas e pós-condição**: Perfil disponível para acesso ao sistema. 
 
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.004.png)
 
 **Descrição do caso de uso:** Este caso de uso permite que o usuário realize seu login, e assim, tenha acesso a interface do sistema. 
 
@@ -79,8 +71,6 @@ Ator: Usuário
 **Entradas e pré-condições**: Possuir cadastro. 
 
 **Saídas e pós-condição**: Perfil disponível para acesso a interface do sistema. 
-
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.005.png)
 
 **Descrição do caso de uso:** Este caso de uso permite que o usuário visualize o seu perfil, e altere seus dados caso seja necessário. 
 
@@ -94,10 +84,6 @@ Ator: Usuário
 
 2. **Interface** 
 
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.006.png)
-
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.007.png)
-
 **Descrição do caso de uso:** Este caso de uso permite que o usuário visualize os dados que estão disponíveis no sistema. 
 
 **Prioridade**:  ■ Essencial  Importante  Desejável 
@@ -105,8 +91,6 @@ Ator: Usuário
 **Entradas e pré-condições**: Possuir cadastro. 
 
 **Saídas e pós-condição**:Visualizar os dados disponíveis. 
-
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.008.png)
 
 **Descrição do caso de uso:** Este caso de uso permite que o usuário baixe os dados que deseja. 
 
@@ -116,7 +100,6 @@ Ator: Usuário
 
 **Saídas e pós-condição**: Baixar os dados disponíveis no sistema. 
 
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.009.png)
 
 **Descrição do caso de uso:** Este caso de uso permite que o usuário pesquise os dados que deseja. 
 
@@ -130,15 +113,12 @@ Ator: Usuário
 
 Usabilidade Portabilidade Desempenho 
 
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.010.png)
-
 A  interface  com  o  usuário  é  de  vital  importância  para  o  sucesso  do  sistema. Principalmente por ser um sistema que não será utilizado diariamente, o usuário não possui tempo disponível para aprender como utilizar o sistema. 
 
-**Prioridade**:        ■ Essencial  Importante  Desejável Embora não seja um requisito essencial ao sistema, deve ser considerada por corresponder a um fator de qualidade de software. ![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.011.png)
+**Prioridade**:        ■ Essencial  Importante  Desejável Embora não seja um requisito essencial ao sistema, deve ser considerada por corresponder a um fator de qualidade de software. 
 
 **Prioridade**:  Essencial  ■ Importante  Desejável 
 
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.012.png)
 
 Visando criar um produto com maior extensibilidade, reusabilidade e flexibilidade, deve-se adotar como linguagem principal de desenvolvimento Java seguindo cuidadosamente as técnicas de orientação a objetos. Entretanto, outras linguagens também poderão ser usadas quando indicações técnicas recomendem. O uso da linguagem Java permite não especificar qual será o sistema operacional e a máquina em que o programa irá executar. No entanto, essa máquina deverá se comunicar com um sistema de banco de dados. 
 
