@@ -1,18 +1,22 @@
 ﻿**Projeto Integrador IV ![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.001.png)**
 
-**Equipe**         Caio Alves      Izabelly Santana Letícia Freitas Lucas França Luiz Gonçalves Mariana Bulhões 
+**Equipe**         Caio Alves      
+Izabelly Santana 
+Letícia Freitas 
+Lucas França 
+Luiz Gonçalves 
+Mariana Bulhões 
 
 **Documento de Requisitos do Sistema ENADE – versão 1.0** 
 
 **Histórico de Alterações** 
 
 
-
 |**Data** |**Versão** |**Descrição** |**Autor** |
 | - | - | - | - |
 |21/04/2023 |1\.0 |Finalidade do sistema / requisitos funcionais / diagrama de casos de uso / requisitos não-funcionais. |Letícia Freitas |
-|||||
-|||||
+
+
 **1. Introdução** 
 
 Este documento especifica os requisitos do sistema *ENADE*, através  de casos de uso, fornecendo aos desenvolvedores e clientes as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema. 
@@ -53,9 +57,6 @@ O usuário terá acesso para consulta aos dados de forma intuitiva, e de fácil 
 3. **Requisitos funcionais (casos de uso)** 
 1. **Cadastro** 
 
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.002.png)
-
-![](Aspose.Words.c57064bd-2cb1-46ec-9a1c-34f867acad50.003.png)
 
 **Descrição do caso de uso:** Este caso de uso permite que o usuário realize seu cadastro a fim de utilizar funcionalidades do mesmo. 
 
